@@ -1,0 +1,10 @@
+# Site settings
+title: FizzBuzz, a Ruby programming workshop
+tag_text: FizzBuzz
+description: FizzBuzz, a Ruby programming workshop
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
