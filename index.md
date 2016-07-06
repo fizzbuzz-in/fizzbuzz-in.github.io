@@ -33,7 +33,7 @@ The goal is to enable you tackle  programming interviews using Ruby, and to also
 
 [Abhishek Yadav](http://www.zerothabhishek.com/about) is an active member of the Ruby community in Chennai, and has conducted several Ruby and Rails workshops over the past few years.  
 
-[Shanth Kumar](https://twitter.com/5hanth) a Haskell enthusiast and Ruby programmer. He has been active in the Indian Linux User group Chennai.
+[Shanthkumar](https://twitter.com/5hanth) is a Functional Programming enthusiast and Ruby programmer. He has been active in various F/OSS communities.
 
 <!-- 
 <a href='https://docs.google.com/forms/d/11J6em92LUsF71eTdBmn-SnsVSCWPjbKe_5UFy56p7V4/viewform' style='color:blue'>Register here</a>
