@@ -2,7 +2,7 @@
 layout: default
 ---
 
-FizzBuzz is a programming workshop for Ruby beginners. You'll learn to solve programming puzzles using the Ruby programming language, and have some fun while doing it.
+FizzBuzz is a programming workshop for Ruby beginners. We'll solve programming puzzles using the Ruby programming language, and have some fun while doing it.
 
 We'll start with the basics of Ruby, and will then continue to a simple FizzBuzz implementation. We'll keep switching between Ruby fundamentals and programming puzzles until you get a hang of it. (see *Agenda* below).
 
