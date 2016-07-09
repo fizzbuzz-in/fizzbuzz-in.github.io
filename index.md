@@ -8,10 +8,9 @@ We'll start with the basics of Ruby, and will then continue to a simple FizzBuzz
 
 The goal is to enable you tackle  programming interviews using Ruby, and to also demonstrate the power and elegance of Ruby.
 
-<!--
-<a href='https://docs.google.com/forms/d/11J6em92LUsF71eTdBmn-SnsVSCWPjbKe_5UFy56p7V4/viewform' style='color:blue'>Register here</a>
- -->
-<a href='http://fizzbuzz.doattend.com/' style='color:blue'>Register</a>
+<a href='http://fizzbuzz.doattend.com/' style='color:blue; font-size:1.5rem'>
+  Register here
+</a>
 
 **Prerequisites:**
 
@@ -44,4 +43,8 @@ The goal is to enable you tackle  programming interviews using Ruby, and to also
 <script src="https://gist.github.com/zerothabhishek/fba223f4c6653d4c8c2b1ffa00b93743.js"></script>
 
 
-<a href='http://fizzbuzz.doattend.com/' style='color:blue'>Register</a>
+<br>
+
+<a href='http://fizzbuzz.doattend.com/' style='color:blue; font-size:1.5rem'>
+  Register here
+</a>
