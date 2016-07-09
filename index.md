@@ -11,14 +11,14 @@ The goal is to enable you tackle  programming interviews using Ruby, and to also
 <!--
 <a href='https://docs.google.com/forms/d/11J6em92LUsF71eTdBmn-SnsVSCWPjbKe_5UFy56p7V4/viewform' style='color:blue'>Register here</a>
  -->
-<a href='' style='color:blue'>Registration opening soon</a>
+<a href='http://fizzbuzz.doattend.com/' style='color:blue'>Register</a>
 
 **Prerequisites:**
 
 1. *Some* programming experience, in any language
 2. A laptop with Ruby installed.
 
-<!-- **Fees:** Rs. 500 -->
+**Fees:** Rs. 500
 
 **Date and Time:**
 <span class='highlight'>Saturday, 16th July 2016. 10 am - 2 pm</span>
@@ -44,3 +44,4 @@ The goal is to enable you tackle  programming interviews using Ruby, and to also
 <script src="https://gist.github.com/zerothabhishek/fba223f4c6653d4c8c2b1ffa00b93743.js"></script>
 
 
+<a href='http://fizzbuzz.doattend.com/' style='color:blue'>Register</a>
