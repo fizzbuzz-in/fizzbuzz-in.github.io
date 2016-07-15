@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<span class='highlight'>Cancelled</span>
+
 FizzBuzz is a programming workshop for Ruby beginners. We'll solve programming puzzles using the Ruby programming language, and have some fun while doing it.
 
 We'll start with the basics of Ruby, and will then continue to a simple FizzBuzz implementation. We'll keep switching between Ruby fundamentals and programming puzzles until you get a hang of it. (see *Agenda* below).
